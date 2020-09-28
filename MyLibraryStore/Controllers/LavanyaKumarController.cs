@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MyLibraryStore.Controllers
 {
-    public class LavanyaKumarController : Controller
+    public class LavanyakumarController : Controller
     {
         public IActionResult Index()
         {
